@@ -1,0 +1,13 @@
+http://127.1.1.1/QuizDS7/admin/login.php
+
+ingresar:
+usuario: admin 
+clave: admin
+
+modulos funcionales
+
+http://127.1.1.1/QuizDS7/admin/nuevapregunta.php
+
+http://127.1.1.1/QuizDS7/admin/listadopreguntas.php
+
+http://127.1.1.1/QuizDS7/jugador/
